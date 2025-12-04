@@ -1,0 +1,78 @@
+.suni1 {
+    background-image:url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.reddy {
+    border-radius:20px ;
+    background-color:blue;
+    color:white;
+    height:30px ;
+    width:110px;
+    border-width: 0px;
+}
+.suni2 {
+    
+    min-width: 30%;
+    background-color: white;
+    border-radius: 20px;
+    padding:10px;
+    text-align: center;
+    
+}
+
+.suni {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    height:100vh;
+}
+.heading {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 30px;
+    
+}
+
+.suni-card {
+    background-color:white ;
+    padding:15px;
+    border-radius: 8px;
+    margin: 20px;
+    
+}
+.image1 {
+    height:100px;
+    width: 100px;
+    padding: 10px;
+}
+.heading2 {
+    color:#0f0e46;
+    font-size: 25px;
+    font-weight:bold;
+}
+.kasamma {
+    color:#0f0e46;
+    font-size: 20px;
+}
+
+.image {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/seabg.png"); 
+    background-size: cover;
+    height: 100vh;
+}
+.sunitha {
+    text-align: center;
+    color:white;
+    padding:5px;
+    
+}
+.card {
+    background-color: white;
+    margin: 20px;
+}
+.suni2223 {
+    padding:10px;
+}
