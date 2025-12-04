@@ -27,5 +27,3 @@ Click below to view the deployed website:
 
 ---
 
-## 📁 Project Structure
-
